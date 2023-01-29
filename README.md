@@ -4,7 +4,6 @@
 
 Creating a new table in a database can be done using the CREATE TABLE statement. It's important to note that the name of the table and the columns need to be defined along with the data types of each column. Here's an example of how to create a table called "employees":
 
-
 ```sql
 CREATE TABLE employees (
     id INT PRIMARY KEY,
@@ -25,7 +24,6 @@ DROP TABLE employees;
 <br/>
 
 ---
-<br/>
 
 # CRUD Example Operations
 
