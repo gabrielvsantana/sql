@@ -1,5 +1,16 @@
 # SQL General Notes
 
+## Table of Contents
+
+- [1. Table Creation](#table-creation-and-deletion)
+- [2. CRUD Example Operations](#crud-example-operations)
+
+<br/>
+
+---
+
+# Table Creation and Deletion
+
 ## Table Creation
 
 Creating a new table in a database can be done using the CREATE TABLE statement. It's important to note that the name of the table and the columns need to be defined along with the data types of each column. Here's an example of how to create a table called "employees":
