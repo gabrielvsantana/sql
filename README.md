@@ -1,13 +1,16 @@
-# SQL General Notes
+# $ sql-notes
 
-## Table of Contents
-
-- [1. Table Creation](#table-creation-and-deletion)
-- [2. CRUD Example Operations](#crud-example-operations)
+![sql-notes](./sql-notes.png)
 
 <br/>
 
----
+# Table of Contents
+
+1. [Table Creation](#table-creation-and-deletion)
+1. [CRUD Example Operations](#crud-example-operations)
+1. [For More Dev Notes](#for-more-dev-notes)
+
+<br/>
 
 # Table Creation and Deletion
 
@@ -82,4 +85,6 @@ These are the basic CRUD operations that can be performed on a database using SQ
 
 <br/>
 
----
+# For More Dev Notes
+
+This is just one piece of my open personal notes collection, where I'm mapping out all my knowledge. If you're keen on checking out other topics, give this a click: ***[official dev-notes](https://github.com/gabrielvsantana/dev-notes)***
